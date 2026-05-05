@@ -3,3 +3,11 @@
 # Format: owner/repo|filter1|filter2|...
 # Filters are case‑insensitive regular expressions (grep -E).
 
+therealaleph/MasterHttpRelayVPN-RUST
+masterking32/MasterDnsVPN
+2dust/v2rayN
+2dust/v2rayNG
+IRNova/Nova-Proxy-App
+RevocGG/MasterDnsVPN-AndroidGG
+Hidden-Node/GooseRelayVPN-AndroidClient
+kamalalhagh/kevinnet-dns
